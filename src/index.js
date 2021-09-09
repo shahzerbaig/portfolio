@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Contactus from './Components/contact-us'
+import Contactus from './Components/contact-us';
+import NavigationBar from './Components/navigation-bar'
 
 ReactDOM.render(
   <React.StrictMode>
+    <NavigationBar/>
     <Contactus />
   </React.StrictMode>,
   document.getElementById('root')
