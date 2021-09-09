@@ -5,10 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Contactus from './Components/contact-us';
 import NavigationBar from './Components/navigation-bar'
+import Author from './Components/author-data'
 
 ReactDOM.render(
   <React.StrictMode>
     <NavigationBar/>
+    <Author/>
     <Contactus />
   </React.StrictMode>,
   document.getElementById('root')
