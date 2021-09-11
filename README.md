@@ -1,3 +1,16 @@
+___
+# Portfolio Website 
+- The WebApp will contain a static front-end build on REACT.js.
+- It will be deployed using git & Github.
+- Standard Lean Process is currently in use to develop the project.
+___
+
+ **Author**  : SBaig
+ **Designer** : Ridhhi Pawar
+ 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
