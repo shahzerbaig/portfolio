@@ -5,7 +5,38 @@ ___
 - Standard Lean Process is currently in use to develop the project.
 ___
 
- **Author**  : SBaig
+## The User Interface of the Web App
+ #### The Section is divided into 4 Section
+    - Introduction
+    - Skills
+    - Work
+    - Contact
+
+**Introduction**
+    - Header
+     - navbar
+        - Home (navbar__item)
+            - navbar__link1
+        - Skill (navbar__item)
+            - navbar__link2
+        - Work (navbar__item)
+            - navbar__link3
+        - Contact (navbar__item)
+            - navbar__link4
+    
+     - Logo
+     
+    - profile 
+        - profile__name
+        - profile__photo
+
+    - info (Information) 
+        - info__introduction
+        - info__aboutUs
+        - info__downloadCv
+        - info__yearsOfExperience
+
+ **Author**  : Baig
  **Designer** : Ridhhi Pawar
  
 
